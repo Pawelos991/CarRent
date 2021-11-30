@@ -1,0 +1,31 @@
+
+<html>
+    <head>
+        <title>Zmiana ceny wypożyczenia</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h2>Wybierz samochód, którego cenę chcesz zmienić</h2>
+        <form action="ChangePrice">
+        <select name="Wybor_samochodu">
+            <option>Mazda RX8</option>
+            <option>Volkswagen Passat</option>
+            <option>BMW M3 GTR</option>
+            <option>Seat Leon I</option>
+            <option>Range Rover Sport</option>
+        </select>
+        <h2>Wybierz, co chcesz zrobić z ceną wypożyczenia</h2>
+        <p><input type=radio name=data value=setNew checked>Ustalić nową cenę</p>
+        <p><input type=radio name=data value=raise>Podnieść cenę do określonej wartości</p>
+        <p><input type=radio name=data value=raiseByAmount>Podnieść cenę o określoną wartość</p>
+        <p><input type=radio name=data value=lower>Obniżyć cenę do określonej wartości</p>
+        <p><input type=radio name=data value=lowerByAmount>Obniżyć cenę o określoną wartość</p>
+        <h2>Wpisz wartość</h2>
+            <input type="text" name="wartosc" value="" />
+            <br><br>
+            <input type="submit" value="Zmień cenę" />
+        </form>
+        <br><br><br><br><button onclick="location.href = 'index.html';" >Wróć do strony głównej</button>
+    </body>
+</html>

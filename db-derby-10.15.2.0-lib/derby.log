@@ -1,0 +1,19 @@
+Fri Dec 11 10:44:16 CET 2020 : Serwer sieciowy Apache Derby - 10.15.2.0 - (1873585) uruchomiony i gotowy do zaakceptowania po³¹czeñ na porcie 1527 w {3} 
+----------------------------------------------------------------
+Fri Dec 11 10:49:52 CET 2020:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585) systemu Derby: instancja a816c00e-0176-512f-cd6a-fffff1c531b3
+w katalogu bazy danych C:\Wszio\Studia\Obecne przedmioty\JIUM\Laboratorium\db-derby-10.15.2.0-lib\Lab4 jdk.internal.loader.ClassLoaders$AppClassLoader@69663380 
+
+java.vendor=Oracle Corporation
+user.dir=C:\Wszio\Studia\Obecne przedmioty\JIUM\Laboratorium\db-derby-10.15.2.0-lib
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Wszio\Studia\Obecne przedmioty\JIUM\Laboratorium\db-derby-10.15.2.0-lib
+Uruchomiono program ³aduj¹cy klasê bazy danych - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Dec 11 11:26:37 CET 2020: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Dec 11 11:26:37 CET 2020:
+Wy³¹czanie instancji a816c00e-0176-512f-cd6a-fffff1c531b3
+----------------------------------------------------------------

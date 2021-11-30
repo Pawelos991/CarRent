@@ -1,0 +1,9 @@
+Aplikacja działa poprawnie (wszystkie funkcjonalności), ale przy pierwszym uruchomieniu, mimo że dane dodawane są do bazy, to program nie chce na nich operować.
+
+Aby wszystko działało poprawnie:
+1.Przy pierwszym uruchomieniu programu z NetBeans najlepiej wybrać "Wyświetlić listę samochodów"
+2.Wyświetli się tylko 1 samochód (mimo że do bazy dodane zostało 5, można to sprawdzić ręcznie oglądając tabelę Cars, Mileages lub Dates).
+3.Należy zamknąć aplikację (przeglądarkę)
+
+Przy każdym kolejnym uruchomieniu programu działa on poprawnie, wszystkie wprowadzone zmiany są zapisywane i nie ma żadnych problemów.
+Próbowałem różnych rozwiązań, ale nie wiem czemu przy inicjalizacji bazy mimo, że wprowadzone zostają dane 5 samochodów, program używa tylko 1.
